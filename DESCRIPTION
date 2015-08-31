@@ -1,13 +1,13 @@
 Package: myTools
 Type: Package
-Title: R tools and helper functions that have come in handy for me. 
+Title: R tools and helper functions that have come in handy for me.
 Version: 0.1
 Date: 2015-01-06
 Authors@R: "Tim Kaye <timothy.kaye@pomona.edu> [aut, cre]"
-Description: Includes handy functions for everyday statistical analysis. I'll do my best to
-  document each of the functions. 
+Description: Includes handy functions for everyday statistical analysis
 License: MIT
-Imports: faraway,
+Imports:
+    faraway,
     ggplot2,
     dplyr,
     tidyr,

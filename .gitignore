@@ -3,6 +3,6 @@
 .RData
 
 .Rbuildignore
-.Rproj.user/6C27B281
 
+*Rproj
 
